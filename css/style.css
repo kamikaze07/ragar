@@ -2093,6 +2093,7 @@ blockquote{
     -webkit-box-shadow: 1px 0px 3px 0 #ddd;
     -moz-box-shadow: 1px 0px 3px 0 #ddd;
     border: 1px solid #eee;
+    border-radius: 15px;
 }
 
 .service-feature-box .service-media{
@@ -2106,8 +2107,9 @@ blockquote{
     -webkit-transition: all 2s ease-in-out 0s;
     -moz-transition: all 2s ease-in-out 0s;
     -o-transition: all 2s ease-in-out 0s;
-
     opacity: 1;
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px
 }
 
 .service-feature-box .service-media:hover img{
@@ -2149,6 +2151,8 @@ blockquote{
 .service-feature-box .service-body{
     background-color: #fff;
     padding: 20px;
+    border-bottom-right-radius: 10px;
+    border-bottom-left-radius: 10px;
 }
 
 
