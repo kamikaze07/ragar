@@ -629,7 +629,7 @@ a.download-link span i{
     position: relative;
 }
 .dropdown-submenu > .dropdown-menu {
-    left: 100%;
+    right: 100%;
     top: -3px;
     -webkit-box-shadow: 0px 3px 0px 0px rgba(0, 0, 0, 0.1);
     -moz-box-shadow: 0px 3px 0px 0px rgba(0, 0, 0, 0.1);
@@ -4031,4 +4031,3 @@ blockquote{
     -webkit-border-radius: 4px;
     -moz-border-radius: 4px;
 }
-
