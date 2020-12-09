@@ -1171,6 +1171,12 @@ a.download-link span i{
 .img-bkg03{
     background-image: url('../img/pics/img1.jpg');
 }
+.img-bkg04{
+    background-image: url('../img/pics/cert1.jpg');
+}
+.img-bkg05{
+    background-image: url('../img/pics/cert2.jpg');
+}
 
 *[class*="img-bkg"]{
     background-size: cover;
